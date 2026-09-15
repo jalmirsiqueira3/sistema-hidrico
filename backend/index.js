@@ -6,7 +6,7 @@ import mqttConnectAsync from './mqtt/connect.mqtt.js';
 import dbConnectAsync from './database/connect.database.js';
 
 // dotenv.config({ path: `./.env.${process.env.NODE_ENV}` });
-dotenv.config();
+dotenv.config({ path: `./.env.development` });
 
 const port = process.env.PORT;
 
