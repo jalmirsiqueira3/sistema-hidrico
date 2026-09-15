@@ -1,9 +1,13 @@
 # Sistema de Monitoramento e Gestão Hídrica
 
 [![Node.js](https://img.shields.io/badge/Node.js-18%2B-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/Express-5-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)](https://react.dev/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Atlas_or_Local-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6%2B-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[![C](https://img.shields.io/badge/C-Firmware-A8B9CC?logo=c&logoColor=black)](https://en.cppreference.com/w/c)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Database-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![MQTT](https://img.shields.io/badge/MQTT-Communication-6600CC?logo=eclipse-mosquitto&logoColor=white)](https://mqtt.org/)
+[![ESP32](https://img.shields.io/badge/ESP32-IoT-E7352C?logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![JWT](https://img.shields.io/badge/JWT-Authentication-000000?logo=jsonwebtokens&logoColor=white)](https://jwt.io/)
 
 Sistema de monitoramento e gestão hídrica desenvolvido para facilitar o acompanhamento do abastecimento, o controle operacional e a comunicação entre usuários, infraestrutura e dispositivos embarcados. O projeto foi pensado para demonstrar uma solução completa em IoT e desenvolvimento full stack, integrando backend, frontend, banco de dados e comunicação em tempo real via MQTT.
@@ -353,6 +357,17 @@ Para a implementação funcional do protótipo, esses foram os componentes utili
 </p>
 
 > **Observação:** esta imagem registra o protótipo físico desenvolvido e utilizado durante a apresentação inicial do projeto. A montagem serviu para demonstrar a integração entre o ESP32, sensores, bomba e circuito de acionamento, mas não representa a versão final do sistema, pois houveram alterações.
+
+---
+
+## 👨‍💻 Minha Contribuição
+
+Minha principal participação no projeto esteve concentrada em duas frentes:
+
+- desenvolvimento do backend, incluindo a organização da API, rotas, controllers, integração com MongoDB, autenticação, validação de dados e comunicação com MQTT;
+- construção do protótipo físico, colaborando na montagem e na integração entre o ESP32, sensores, bomba, circuito de acionamento e o sistema web.
+
+O projeto foi desenvolvido em equipe, com colaboração nas decisões de arquitetura, integração entre as partes e preparação da solução para apresentação.
 
 ---
 
